@@ -123,22 +123,7 @@ ng build --configuration=production
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 Code Style
-
-- Follow Angular style guide
-- Use TypeScript strict mode
-- Implement proper error handling
-- Write meaningful comments
-- Follow component-based architecture
-
-## 🔐 Security
-
-- Implement proper authentication
-- Use HTTPS
-- Follow Angular security best practices
-- Regular dependency updates
+5. Open a Pull Requeste
 
 ## 📈 Performance Optimization
 
